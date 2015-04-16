@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+    var iadjisaijd = "8=========D"
 
 
 }
