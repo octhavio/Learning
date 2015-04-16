@@ -5,23 +5,23 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>75D88370-D0DB-4494-8863-F2D70323FED3</string>
+	<string>1E664F42-9208-4DDC-894D-B2B154891C16</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Learning</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>1D58FBCFCD45D24613F7E0F062A0C8544EDADAC6</key>
-		<string>https://github.com/becampanha/Learning.git</string>
+		<string>https://github.com/octhavio/Learning.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Learning.xcodeproj/project.xcworkspace</string>
+	<string>Learning.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>1D58FBCFCD45D24613F7E0F062A0C8544EDADAC6</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/becampanha/Learning.git</string>
+	<string>https://github.com/octhavio/Learning.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
