@@ -3,7 +3,7 @@
 //  Learning
 //
 //  Created by Bruno Echenique Campanhã on 4/16/15.
-//  Copyright (c) 2015 Bruno Echenique Campanhã. All rights reserved.
+//  Copyright (c) 2015 OI MEU NOME É BRUNO
 //
 
 import UIKit
@@ -25,3 +25,4 @@ class ViewController: UIViewController {
 
 }
 
+//CURINTIAAAAAAA
